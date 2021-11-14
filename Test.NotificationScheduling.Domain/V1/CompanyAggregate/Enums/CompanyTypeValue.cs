@@ -1,4 +1,4 @@
-namespace Test.NotificationScheduling.Domain.CompanyAggregate.Enums
+namespace Test.NotificationScheduling.Domain.V1.CompanyAggregate.Enums
 {
     public enum CompanyTypeValue
     {

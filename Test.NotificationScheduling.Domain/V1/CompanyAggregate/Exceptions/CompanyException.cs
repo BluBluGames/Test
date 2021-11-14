@@ -1,6 +1,6 @@
 using System;
 
-namespace Test.NotificationScheduling.Domain.CompanyAggregate.Exceptions
+namespace Test.NotificationScheduling.Domain.V1.CompanyAggregate.Exceptions
 {
     public class CompanyException : Exception
     {

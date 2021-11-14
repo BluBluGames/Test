@@ -1,9 +1,9 @@
 using System;
-using Test.NotificationScheduling.Domain.CompanyAggregate.Enums;
-using Test.NotificationScheduling.Domain.CompanyAggregate.Exceptions;
+using Test.NotificationScheduling.Domain.V1.CompanyAggregate.Enums;
+using Test.NotificationScheduling.Domain.V1.CompanyAggregate.Exceptions;
 using ValueOf;
 
-namespace Test.NotificationScheduling.Domain.CompanyAggregate.ValueObjects
+namespace Test.NotificationScheduling.Domain.V1.CompanyAggregate.ValueObjects
 {
     public class Market : ValueOf<MarketValue, Market>
     {

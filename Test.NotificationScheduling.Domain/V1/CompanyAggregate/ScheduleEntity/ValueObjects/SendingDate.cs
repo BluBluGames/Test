@@ -1,8 +1,8 @@
 using System;
-using Test.NotificationScheduling.Domain.CompanyAggregate.Exceptions;
+using Test.NotificationScheduling.Domain.V1.CompanyAggregate.Exceptions;
 using ValueOf;
 
-namespace Test.NotificationScheduling.Domain.CompanyAggregate.ScheduleEntity.ValueObjects
+namespace Test.NotificationScheduling.Domain.V1.CompanyAggregate.ScheduleEntity.ValueObjects
 {
     public class SendingDate : ValueOf<DateTime, SendingDate>
     {
